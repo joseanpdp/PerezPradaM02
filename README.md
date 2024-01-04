@@ -41,4 +41,5 @@ En el caso contrario a este, lo que se hace es cambiar el valor del texto situad
 Esta es la ventana que se mostrará tras introducir correctamente el nombre y la contraseña. Donde se muestra el mismo contenido que en la tarea 1 (un campo de texto como título de la ventana, otro campo de texto que caracteriza al temporizador, y tres botones de acción para incrementar, reducir o resetear el contador y por último un texto). La diferencia está en que el texto de la zona inferior de la pantalla ya no muestra el "*By José Antonio Pérez de Prada*" sino que muestra un mensaje de bienvenida para el usuario.
 
 El nombre del usuario no está metido directamente como parámetro del texto, sino que lo hemos traído de la ventana anterior (la de login). Este el código necesario para recibir el valor de la variable username vista en el código de la vista de login:
+
 ![ventana de login](resourcesReadme/codigoContador.png)
