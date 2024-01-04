@@ -21,7 +21,6 @@ public class LoginActivity extends AppCompatActivity {
     private static final String USERNAME = "admin";
     private static final String PASSWORD = "admin";
 
-    @SuppressLint("MissingInflatedId")
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
